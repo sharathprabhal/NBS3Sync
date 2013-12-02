@@ -1,7 +1,7 @@
 NBS3Sync
 ========
 
-A NoBackend cloud storage app using only Amazon S3, Amazon SNS and Amazon SQS
+An auto-syncing noBackend cloud storage app using only Amazon S3, Amazon SNS and Amazon SQS
 
 Go [here](http://sharathprabhal.tumblr.com/post/68737134239/a-nobackend-cloud-storage-app-using-only-aws) for more information.
 
